@@ -1,6 +1,6 @@
 # heroku-buildpack-ffmpeg-latest
 
-> If you'd like to maintain this repository, let me know!
+Forked from https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest due to recent issue with Heroku grabbing file from http://johnvansickle.com
 
 A Heroku buildpack for ffmpeg that always downloads the latest [static build](http://johnvansickle.com/ffmpeg/).
 Unlike other build packs, I never compile anything.
